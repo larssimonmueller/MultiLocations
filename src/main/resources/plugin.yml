@@ -1,0 +1,7 @@
+name: MultiLocations
+version: 1.4
+author: Gedankenleid
+main: de.gedankenleid.multilocations.Main
+
+commands:
+  multilocations:
